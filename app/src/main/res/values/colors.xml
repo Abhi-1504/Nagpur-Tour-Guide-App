@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA726</color>
+    <color name="colorPrimaryDark">#EF6C00</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="street_view_button_color">#FBC02D</color>
+    <color name="button_text_color">#FAFAFA</color>
+    <color name="main_background_color">#FFF3E0</color>
+    <color name="details_background_color">#FFCC80</color>
+</resources>
